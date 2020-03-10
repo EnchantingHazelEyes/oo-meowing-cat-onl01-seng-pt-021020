@@ -1,6 +1,6 @@
 class Cat
   
-  def 
+  def name 
   
   
   
