@@ -1,6 +1,7 @@
 class Cat
   
-  attr
+  attr_writer = 
+  attr_reader
   
   
   
